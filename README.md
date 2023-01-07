@@ -26,3 +26,7 @@
 
 ## 删除教程
 将添加到index.htm中的那一行内容删除即可，kookbgreplacer.js可删可不删，只要index.htm没有那一行就不会影响
+
+## 关于格式化文件
+打开你的Visual Studio Code并打开文件，使用快捷键`Shift + Alt + F`，或者通过右键菜单（见下图）
+![image](https://user-images.githubusercontent.com/63186003/211157599-a6bc39cc-b853-418d-b008-b76993c6df65.png)
